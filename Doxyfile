@@ -1,0 +1,4 @@
+OUTPUT_DIRECTORY       = .
+GENERATE_HTML          = YES
+HTML_OUTPUT            = ./html
+GENERATE_LATEX         = NO
