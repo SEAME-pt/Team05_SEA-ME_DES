@@ -1,0 +1,9 @@
+<map id="SpeedT" name="SpeedT">
+<area shape="rect" id="Node000001" title=" " alt="" coords="42,168,113,193"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,80,107,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="65,118,77,167,72,168,60,119"/>
+<area shape="rect" id="Node000003" href="$classSpeed.html" title=" " alt="" coords="131,80,194,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="143,117,91,169,87,166,139,113"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="123,5,202,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="165,45,165,80,160,80,160,45"/>
+</map>

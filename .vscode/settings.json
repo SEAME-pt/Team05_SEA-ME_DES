@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "random": "cpp",
+        "any": "cpp",
+        "memory": "cpp",
+        "future": "cpp",
+        "optional": "cpp"
+    },
+    "cmake.sourceDirectory": "/home/matilde/Team05_SEA-ME_DES/DistributedEmbeddedSystems/digital_cluster",
+    "C_Cpp.errorSquiggles": "disabled"
+}

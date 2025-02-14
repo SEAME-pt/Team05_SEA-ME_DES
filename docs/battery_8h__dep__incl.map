@@ -1,0 +1,19 @@
+<map id="DistributedEmbeddedSystems/digital_cluster/include/battery.h" name="DistributedEmbeddedSystems/digital_cluster/include/battery.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="789,5,1008,60"/>
+<area shape="rect" id="Node000002" href="$mainwindow_8h.html" title=" " alt="" coords="668,108,887,163"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="858,71,811,110,807,106,855,67"/>
+<area shape="rect" id="Node000009" href="$src_2battery_8cpp.html" title=" " alt="" coords="911,115,1129,155"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="943,67,999,113,995,117,940,71"/>
+<area shape="rect" id="Node000003" href="$main_8cpp.html" title=" " alt="" coords="5,211,224,251"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="655,156,236,213,225,215,224,210,236,208,654,150"/>
+<area shape="rect" id="Node000004" href="$mainwindow_8cpp.html" title=" " alt="" coords="249,211,503,251"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="655,168,457,213,456,208,654,162"/>
+<area shape="rect" id="Node000005" href="$test_2autonomy_8cpp.html" title=" " alt="" coords="528,211,771,251"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="732,173,677,213,674,208,729,169"/>
+<area shape="rect" id="Node000006" href="$test_2battery_8cpp.html" title=" " alt="" coords="795,211,1018,251"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="827,169,882,208,879,213,823,173"/>
+<area shape="rect" id="Node000007" href="$test_2temperature_8cpp.html" title=" " alt="" coords="1041,211,1300,251"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="901,163,1092,208,1090,213,899,168"/>
+<area shape="rect" id="Node000008" href="$window_8cpp.html" title=" " alt="" coords="1324,211,1551,251"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="901,160,1017,177,1108,186,1312,208,1324,210,1324,215,1312,213,1107,192,1016,182,900,165"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,80,84,105"/>
+<area shape="rect" id="Node000001" href="$classAutonomy.html" title=" " alt="" coords="139,5,229,31"/>
+<area shape="poly" id="edge2_Node000000_Node000001" title=" " alt="" coords="77,71,131,40,153,28,156,33,133,44,79,75"/>
+<area shape="rect" id="Node000002" href="$classBattery.html" title=" " alt="" coords="149,55,219,80"/>
+<area shape="poly" id="edge3_Node000000_Node000002" title=" " alt="" coords="97,81,148,71,149,76,98,86"/>
+<area shape="rect" id="Node000003" href="$classSpeed.html" title=" " alt="" coords="153,104,215,129"/>
+<area shape="poly" id="edge4_Node000000_Node000003" title=" " alt="" coords="98,99,153,109,152,114,97,104"/>
+<area shape="rect" id="Node000004" href="$classTemperature.html" title=" " alt="" coords="132,153,236,179"/>
+<area shape="poly" id="edge5_Node000000_Node000004" title=" " alt="" coords="81,110,133,138,157,151,155,155,131,143,79,114"/>
+</map>
